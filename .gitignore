@@ -448,3 +448,8 @@ lib/build/
 
 # Swift
 Pods/*
+
+# Typescript
+types/*
+typings/*
+
