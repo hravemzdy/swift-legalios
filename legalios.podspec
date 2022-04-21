@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "legalios"
-  spec.version      = "0.22.11"
+  spec.version      = "0.22.12"
   spec.summary      = "Salary, Health, Social, Taxing Properties for years 2011-2022"
 
   # This description is used to generate tags and improve search results.
